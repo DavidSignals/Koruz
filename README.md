@@ -58,6 +58,7 @@ Koruz/
 
 # Clone the repository
 git clone https://github.com/DavidSignals/Koruz.git
+
 cd koruz
 
 # Generate Xcode project using CMake
