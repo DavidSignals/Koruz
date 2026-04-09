@@ -57,7 +57,7 @@ Koruz/
 ### Building from Source
 
 # Clone the repository
-git clone https://github.com/davidsignalsss/koruz.git
+git clone https://github.com/DavidSignals/Koruz.git
 cd koruz
 
 # Generate Xcode project using CMake
@@ -111,7 +111,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 David Signals
 
-GitHub: @davidsignalsss
+GitHub: DavidSignals
 
-Email: davrxo@gmail.com
+Email: DavidSignals
 <div align="center"> <br> <em>Built with passion for music production</em> <br> <sub>Using the incredible JUCE framework</sub> </div> 
